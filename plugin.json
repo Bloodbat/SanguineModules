@@ -4,10 +4,10 @@
   "version" : "2.0.1",
   "license" : "GPL-3.0-or-later",
   "author" : "Bloodbat",
-  "pluginUrl" : "https://github.com/Bloodbat/SanguineModulesCollected",
-  "sourceUrl" : "https://github.com/Bloodbat/SanguineModulesCollected",
-  "description" : "A collection of modules based on Mutable Instruments Eurorack devices, their variants and the original Sanguine Monsters modules.",
-  "changelogUrl" : "https://github.com/Bloodbat/SanguineModulesCollected/blob/main/CHANGELOG.md",
+  "pluginUrl" : "https://github.com/Bloodbat/SanguineModules",
+  "sourceUrl" : "https://github.com/Bloodbat/SanguineModules",
+  "description" : "A collection including the modules from Sanguine Mutants, based on Mutable Instruments Eurorack devices and their variants, as well as the original Sanguine Monsters modules.",
+  "changelogUrl" : "https://github.com/Bloodbat/SanguineModules/blob/main/CHANGELOG.md",
   "manualUrl" : "https://media.githubusercontent.com/media/Bloodbat/SanguineModulesManuals/",
   "modules" : [
     {
