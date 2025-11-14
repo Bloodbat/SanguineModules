@@ -1,0 +1,11 @@
+[submodule "SanguineModulesCommon"]
+	path = SanguineModulesCommon
+	url = https://github.com/Bloodbat/SanguineModulesCommon
+[submodule "SanguineMutants"]
+	path = SanguineMutants
+	url = https://github.com/Bloodbat/SanguineMutants
+	branch = CardinalCollected
+[submodule "SanguineMonsters"]
+	path = SanguineMonsters
+	url = https://github.com/Bloodbat/SanguineMonsters
+	branch = CardinalCollected
